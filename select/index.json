@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "渚にまつわるエトセトラ",
+  "base_artist": "PUFFY",
+  "createdAt": "2025-12-12T04:11:41.960075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "Puffy AmiYumi",
+      "has_synced": false,
+      "path": "select/01_渚にまつわるエトセトラ_Puffy_AmiYumi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "Puffy",
+      "has_synced": false,
+      "path": "select/02_渚にまつわるエトセトラ_Puffy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/03_渚にまつわるエトセトラ_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ - Electric Beach Fever (Nagisani Matsuwaru Et Cetra)",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/04_渚にまつわるエトセトラ_-_Electric_Beach_Fever_(Nagisani_Matsuwaru_Et_Cetra)_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "グループ魂",
+      "has_synced": false,
+      "path": "select/05_渚にまつわるエトセトラ_グループ魂.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/06_渚にまつわるエトセトラ_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/07_渚にまつわるエトセトラ_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "14 渚にまつわるエトセトラ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/08_14_渚にまつわるエトセトラ_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/09_渚にまつわるエトセトラ_PUFFY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渚にまつわるエトセトラ",
+      "artist": "Puffy",
+      "has_synced": false,
+      "path": "select/pl_01_渚にまつわるエトセトラ_Puffy.txt"
+    }
+  ]
+}
